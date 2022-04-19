@@ -34,6 +34,7 @@
     "sharp": "^0.30.3"
   },
   "devDependencies": {
+    "configstore": "^5.0.0",
     "prettier": "2.5.1",
     "husky": "^7.0.4",
     "lint-staged": "^12.3.5"
