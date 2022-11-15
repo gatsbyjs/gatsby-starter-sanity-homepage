@@ -2,10 +2,10 @@
   "root": true,
   "api": {
     "dataset": "production",
-    "projectId": "ch0ck8ut"
+    "projectId": "hxhjr7mm"
   },
   "project": {
-    "name": "homepage-starter"
+    "name": "enphuse-homepage"
   },
   "plugins": [
     "@sanity/base",

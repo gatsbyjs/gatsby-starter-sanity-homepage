@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-sanity-homepage",
+  "name": "enpnuse-static-homepage",
   "version": "1.0.0",
   "engines": {
     "node": ">=18.0.0"
@@ -17,7 +17,7 @@
     "@sanity/block-content-to-html": "^2.0.0",
     "gatsby-plugin-image": "^3.0.0",
     "gatsby-plugin-manifest": "^5.0.0",
-    "gatsby-source-sanity": "^7.3.2",
+    "gatsby-source-sanity": "^7.5.1",
     "@fontsource/dm-mono": "^4.5.9",
     "@fontsource/dm-sans": "^4.5.8",
     "@vanilla-extract/babel-plugin": "^1.2.0",
